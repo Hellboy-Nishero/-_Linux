@@ -1,0 +1,40 @@
+ 50 mkdir animals
+  51 cd animals
+  52 mkdir dogs cats fish
+  53 ls
+  54 cd tmp
+  55 cd tmp/
+  56 cd /tmp
+  57 ls
+  58 touch adam
+  59 mkdir -p /home/humans
+  60 cd /home
+  61 ls
+  62 cd /tmp
+  63 ls
+  64 cp adam /home/humans
+  65 cd home/humans
+  66 cd /umans
+  67 cd /humans
+  68 cd /home
+  69 cd /humans
+  70 ls
+  71 cd / humans
+  72 ls
+  73 cd home
+  74 ls
+  75 cd humans/
+  76 ls
+ 77 cd /tmp
+  78 touch evA
+  79 ls
+  80 mv /tmp/evA /opt/eve
+  81 ls
+  82 cd /opt
+  83 ls
+  84 mv eve /home/humans
+  85 cd /home
+  86 cd humans/
+  87 ls
+  88 history
+
